@@ -183,16 +183,3 @@ StudyGem/
 O StudyGem foi pensado como um pequeno produto real: simples de usar, fácil de demonstrar e com responsabilidades bem separadas entre interface, API e Inteligência Artificial.
 
 ---
-
-## ⚠️ Segurança
-
-Nunca publique:
-
-- `.env`
-- `GEMINI_API_KEY`
-- `.venv`
-- `node_modules`
-
-Use sempre sua própria chave do Gemini e mantenha-a apenas no backend.
-
----
